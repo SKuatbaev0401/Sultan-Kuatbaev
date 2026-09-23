@@ -2,3 +2,4 @@
 
 ### Languages and tools I work with:
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS70DWVZ0bYRbIDgMAALcuNx-OX4LrA8OIt6YoLImkc8w&s=10" width="30px"></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvygkXP-NDi1MJ-wTvQVnJokpXQgwPFmZ4yJsz3tq_sA&s=10" width="30px"></code>
